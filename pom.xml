@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>it.extrasys</groupId>
-	<artifactId>jenkinsdemo</artifactId>
+	<artifactId>jenkinsdemofile</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>jenkinsdemo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>jenkinsdemofile</name>
+	<description>Demo project for Spring Boot with Jenkinsfile</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
